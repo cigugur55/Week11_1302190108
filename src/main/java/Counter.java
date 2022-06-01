@@ -6,7 +6,7 @@ public class Counter {
 	
 	public Counter() {
 		this.reset();
-	}
+	} sdakgnsgn sdgmdskg
 		
 	public void reset() {
 		count = 0;
